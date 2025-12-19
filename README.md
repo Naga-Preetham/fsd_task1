@@ -15,4 +15,4 @@ Enable GitHub Pages for the repository
 Host the website using the main branch.
 Copy the live website URL and add it to README.md.
 
-LIVE WEBSITE URL:
+LIVE WEBSITE URL: https://naga-preetham.github.io/fsd_task1/
